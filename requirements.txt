@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchaudio
+whisperx>=4.0.0
+faster-whisper
+pyannote.audio
+modelscope
+soundfile
+pydub
+onnxruntime
+noisereduce
+librosa
+speechbrain
